@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 public class Exercise1 extends JFrame {
 
-	private JPanel contentPane;
+	private JPanel contentPane; 
 
 
 	public Exercise1() {
